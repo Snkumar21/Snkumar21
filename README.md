@@ -18,8 +18,8 @@
 
 I'm a passionate software developer focused on creating responsive websites and intuitive web apps. My goal is to excel at everything I do, while constantly learning and improving.
 
-- 🔭 **Currently working on:** HRMS, Portfolio, and connecting frontend projects to Vercel
-- 🌱 **Learning:** React.js, MongoDB, backend connectivity with Railway & Render
+- 🔭 **Currently working on:** Connecting all projects with Vercel.
+- 🌱 **Learning:** React.js, MongoDB, backend connectivity with Render
 - 👯 **Looking to collaborate on:** (Open to new opportunities!)
 - 💬 **Ask me about:** Web development, App development, anything tech!
 - ⚡ **Fun fact:** I'm a chilled person who enjoys turning coffee into code ☕
@@ -58,7 +58,6 @@ I'm a passionate software developer focused on creating responsive websites and 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
@@ -72,8 +71,8 @@ I'm a passionate software developer focused on creating responsive websites and 
 
 ## 🏆 Achievements
 
-- ✅ **20+** Projects completed  
-- ⭐ **32** GitHub stars  
+- ✅ **40+** Projects completed  
+- ⭐ **63** GitHub stars  
 - 🤝 **3** Open source contributions  
 
 ---
